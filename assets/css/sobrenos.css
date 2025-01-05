@@ -1,0 +1,18 @@
+
+#sobrenos {
+    width: 100%;
+    padding: 24%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#sobrenos h1{
+    margin-bottom: 5%;
+    font-size: 40px;
+}
+
+#sobrenos p{
+    padding-top: 10%;
+}

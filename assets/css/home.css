@@ -1,0 +1,18 @@
+.home {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15%;
+}
+
+.home img {
+    width: 350px;
+    padding-top: 90%;
+}
+   
+
+.home h1 {
+    font-size: 36px;
+    padding-top: 20%;
+}

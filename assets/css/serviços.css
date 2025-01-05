@@ -1,0 +1,23 @@
+#serviços {
+    width: 100%;
+    padding-top: 18%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#serviços img {
+    padding-top: 2%;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+}
+
+#serviços p {
+    padding-left: 20%;
+    padding-right: 20%;
+
+}
